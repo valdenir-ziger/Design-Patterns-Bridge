@@ -1,0 +1,8 @@
+bridge\DipositivoAvancado.class
+bridge\Dispositivo.class
+bridge\Pessoa.class
+bridge\Mobile.class
+bridge\Aluno.class
+bridge\Desktop.class
+bridge\Monitor.class
+bridge\Start.class
